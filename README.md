@@ -1,7 +1,7 @@
-## Interactive Dashboard for Analyzing Job Market Trends
+# Interactive Dashboard for Analyzing Job Market Trends
 This repository includes interactive dashboard powered by Plotly Dash! This tool allows users to explore and analyze job market trends based on various parameters such as region, country, industry, company, and job role, over different time periods.
 
-# Features:
+## Features:
 
 1)**Average Salary Analysis:**
 
@@ -15,7 +15,7 @@ This repository includes interactive dashboard powered by Plotly Dash! This tool
 
 + Identify the top 5 skills in demand for the chosen parameters.
   
-# Usage:
+## Usage:
 
 1)**Choose Your Parameters:**
 
